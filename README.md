@@ -51,4 +51,4 @@ SupportVectors.
 ---
 
 Built by [Atisha Rajpurohit](https://www.linkedin.com/in/atisha-rajpurohit/).
-More write-ups on [Medium](YOUR_MEDIUM_URL).
+More write-ups on [Medium](https://medium.com/@atisharajpurohit).
